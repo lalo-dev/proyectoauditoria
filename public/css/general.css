@@ -1,0 +1,27 @@
+body {
+	padding-bottom: 30px;
+	padding-top: 70px;
+}
+
+.margenDashboard {
+	margin-bottom: 4em;
+	margin-top: 3em; 
+}
+
+.spanDashboard {
+	border-radius: 50%;
+	border: solid 3px;
+	cursor: pointer;
+	font-size: 100px;
+	padding: .3em;
+	text-shadow: 3px 3px 3px #428bca;
+}
+
+.margenDashboard a,a:link {
+	text-decoration: none;
+	color: #333;
+}
+
+.colorBlanco {
+	color: #fff;
+}
